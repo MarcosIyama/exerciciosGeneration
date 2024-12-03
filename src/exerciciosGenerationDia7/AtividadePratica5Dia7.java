@@ -33,35 +33,35 @@ public class AtividadePratica5Dia7 {
 		case 1:
 			valorProd = 10.00f;
 			valorTotal = valorProd * quantProd;
-			System.out.printf("Valor total: R$ %.2f", valorTotal);
+			System.out.printf("\nProduto: Cachorro Quente\nValor total: R$ %.2f", valorTotal);
 			break;
 		case 2:
 			valorProd = 15.00f;
 			valorTotal = valorProd * quantProd;
-			System.out.printf("Valor total: R$ %.2f", valorTotal);
+			System.out.printf("\nProduto: X-Salada\nValor total: R$ %.2f", valorTotal);
 			break;
 		case 3:
 			valorProd = 18.00f;
 			valorTotal = valorProd * quantProd;
-			System.out.printf("Valor total: R$ %.2f", valorTotal);
+			System.out.printf("\nProduto: X-Bacon\nValor total: R$ %.2f", valorTotal);
 			break;
 		case 4:
 			valorProd = 12.00f;
 			valorTotal = valorProd * quantProd;
-			System.out.printf("Valor total: R$ %.2f", valorTotal);
+			System.out.printf("\nProduto: Bauru\nValor total: R$ %.2f", valorTotal);
 			break;
 		case 5:
 			valorProd = 8.00f;
 			valorTotal = valorProd * quantProd;
-			System.out.printf("Valor total: R$ %.2f", valorTotal);
+			System.out.printf("\nProduto: Refrigerante\nValor total: R$ %.2f", valorTotal);
 			break;
 		case 6:
 			valorProd = 13.00f;
 			valorTotal = valorProd * quantProd;
-			System.out.printf("Valor total: R$ %.2f", valorTotal);
+			System.out.printf("\nProduto: Suco de laranja\nValor total: R$ %.2f", valorTotal);
 			break;
 		default:
-			System.out.println("Opção inválida.");
+			System.out.println("\nOpção inválida.");
 		}
 		leia.close();
 		
