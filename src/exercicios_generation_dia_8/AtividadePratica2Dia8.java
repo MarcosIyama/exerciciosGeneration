@@ -25,7 +25,7 @@ public class AtividadePratica2Dia8 {
 			}
 		}
 		// Saída de Dados
-		System.out.println("\nTotal de números pares: " + iPar);
+		System.out.println("\n\nTotal de números pares: " + iPar);
 		System.out.println("\nTotal de números ímpares: " + iImpar);
 	}
 
