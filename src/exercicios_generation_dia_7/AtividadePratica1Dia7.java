@@ -1,4 +1,4 @@
-package exerciciosGenerationDia7;
+package exercicios_generation_dia_7;
 
 import java.util.Scanner;
 
